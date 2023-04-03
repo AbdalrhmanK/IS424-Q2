@@ -17,8 +17,11 @@ body{
 .my-list h1 {
   color: red;
 }
+
+
 p{
     text-align: center;
+    color: royalblue;
 }
 
 ol{
